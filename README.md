@@ -589,6 +589,15 @@ We officially thank the following contributors for their help in making this rep
 - [@hyhmrright](https://github.com/hyhmrright)
 - [@aptratcn](https://github.com/aptratcn)
 - [@kench001](https://github.com/kench001)
+- [@adelaidasofia](https://github.com/adelaidasofia)
+- [@CeciliaZ030](https://github.com/CeciliaZ030)
+- [@commitshow](https://github.com/commitshow)
+- [@CyberZenithX](https://github.com/CyberZenithX)
+- [@ejentum](https://github.com/ejentum)
+- [@luoyuctl](https://github.com/luoyuctl)
+- [@Mann-Makhecha](https://github.com/Mann-Makhecha)
+- [@memurcie](https://github.com/memurcie)
+- [@pravin-python](https://github.com/pravin-python)
 
 ## Star History
 
